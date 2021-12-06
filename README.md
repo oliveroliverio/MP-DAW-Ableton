@@ -27,3 +27,4 @@
 - you'll see piano roll where you can make your melody with new sample
 
 done
+![](img/2021-12-05-17-03-04.png)
